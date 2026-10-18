@@ -1,0 +1,5 @@
+Name: Dilshod
+Surname: Chorshanbiev
+Group: IT2-2312
+Student ID: 31916
+Course: DevOps
