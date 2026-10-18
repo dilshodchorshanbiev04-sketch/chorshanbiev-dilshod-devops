@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: chorshanbiev-dilshod-devops
+    container_name: chorshanbiev-dilshod-container
+    environment:
+      STUDENT_NAME: Dilshod
+      STUDENT_SURNAME: Chorshanbiev
+      STUDENT_GROUP: IT2-2312
+      STUDENT_ID: "31916"
+    ports:
+      - "8081:8080"
